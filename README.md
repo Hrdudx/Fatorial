@@ -1,6 +1,8 @@
 # Calculadora de Fatorial
-![Captura de tela 2025-03-03 210019](https://github.com/user-attachments/assets/8d61c475-23e8-4716-bd25-39afbe1ae5c0)
 Este projeto é uma aplicação gráfica simples que calcula o fatorial de um número. O usuário pode inserir um número de 0 a 12, e o programa irá calcular o fatorial e mostrar a sequência de multiplicações envolvidas.
+
+![Captura de tela 2025-03-03 210019](https://github.com/user-attachments/assets/8d61c475-23e8-4716-bd25-39afbe1ae5c0)
+
 
 ## Descrição
 
